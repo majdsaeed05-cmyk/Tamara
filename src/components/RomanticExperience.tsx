@@ -9,7 +9,7 @@ import {
   getMessagesByCategory,
   type MessageCategory,
   type RomanticMessage,
-} from "@/data/messages";
+} from "../data/messages";
 import {
   MessageRotator,
   generateStars,
@@ -18,7 +18,7 @@ import {
   shouldReduceMotion,
   type Star,
   type FloatingHeart,
-} from "@/lib/romanticUtils";
+} from "../lib/romanticUtils";
 
 // ============================================================
 // الأنواع
