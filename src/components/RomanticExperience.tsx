@@ -18,7 +18,7 @@ import {
   shouldReduceMotion,
   type Star,
   type FloatingHeart,
-} from "../lib/romanticUtils";
+} from "../romanticUtils";
 
 // ============================================================
 // الأنواع
