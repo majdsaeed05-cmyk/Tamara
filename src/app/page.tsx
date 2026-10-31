@@ -1,7 +1,6 @@
 // src/app/page.tsx
 import type { Metadata } from "next";
-import RomanticExperience from "@/components/RomanticExperience";
-
+import RomanticExperience from "../components/RomanticExperience";
 export const metadata: Metadata = {
   title: "تمارة ❤️ — بداية حكاية",
   description:
